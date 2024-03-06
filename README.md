@@ -1,8 +1,1 @@
-# Student_Enrollment_Management_System
-
--Developed a Java application implementing the Data Access Object (DAO) design pattern.
--Utilized a SQL database schema (schema.sql) to structure database interactions.
--Configured database connection stored in the database.properties file.
--Created a main function to load and parse a CSV file for insertion into the NetBeans database.
--Implemented validation checks for each data field before insertion
--Utilized the NetBeans database for storing validated data.
+The Student Enrollment Management System -  Java application built with the Data Access Object (DAO) design pattern, enabling efficient database interactions. It utilizes a SQL database schema (schema.sql) for structuring interactions, with the database connection configured using environment variables stored in the database.properties file. The application's main function loads and parses a CSV file (bulk-import.csv) for seamless insertion into the NetBeans database. Stringent validation checks are implemented for each data field before insertion, ensuring robust data integrity and security. Finally, the system effectively utilizes the NetBeans database for storing validated student enrollment data, streamlining administrative processes.
